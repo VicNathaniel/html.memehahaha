@@ -1,0 +1,33 @@
+
+
+*{
+  background-color: green;
+}
+
+.div{
+  margin-top: 100px;
+  text-align: center;
+}
+
+.img{
+  border: 5px solid black;
+  
+}
+
+h1{
+  font-family: "Caveat", cursive;
+      font-optical-sizing: auto;
+      font-weight: 400px;
+      font-style: normal;
+      text-transform: capitalize;
+      text-transform: uppercase;
+}
+
+h2{
+  font-family: "Libre Baskerville", serif;
+  font-optical-sizing: auto;
+  font-weight: 10px;
+  font-style: normal;
+  text-transform: lowercase;
+
+}
